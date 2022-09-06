@@ -34,3 +34,4 @@ Informações sobre o treinamento Lince Tech Academy
 2. Em caso de dúvidas ou dificuldade, utilize o canal #duvidas no Discord
 3. Participe dos acompanhamentos diários e mentorias
 
+![Logo Lince Tech Academy](LINCE%20TECH%20ACADEMY.png "Lince Tech Academy")
