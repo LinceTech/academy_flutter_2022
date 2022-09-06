@@ -1,4 +1,4 @@
-# lince_tech_academy_flutter
+# Lince Tech Academy: Flutter
 Informações sobre o treinamento Lince Tech Academy
 
 ## Etapas
