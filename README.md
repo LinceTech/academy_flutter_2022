@@ -17,6 +17,8 @@ Informações sobre o treinamento Lince Tech Academy
  - __YouTube__: Playlist [_"Widget of the Week"_](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) (inglês)
  - __YouTube__: Playlist [_"Begin Learning Flutter"_](https://youtube.com/playlist?list=PLjxrf2q8roU3wk7CDw4RfV3mEwOJbjx1k) (inglês, possui legenda)
  - __YouTube__: Playlist [_"Flutterando"_](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7) (portugues)
+ - __YouTube__: Video [_"Git // Dicionário do Programador"_](https://www.youtube.com/watch?v=za5KWZ5pRag&ab_channel=C%C3%B3digoFonteTV)
+ - __YouTube__: Video [_"Como usar Git e Github na prática"_](https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat)
  
 ### Exercicíos
  1. __Dart__: Praticando lógica de programação
