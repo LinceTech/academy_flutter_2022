@@ -4,7 +4,7 @@ Informações sobre o treinamento Lince Tech Academy
 ## Etapas
 
 ### Introdução a Linguagem Dart
- 1. __Alura__: [Conhecendo o Dart](https://www.alura.com.br/curso-online-dart-variaveis-listas)
+ 1. __Alura__: [Dart: criando e manipulando variáveis e listas](https://www.alura.com.br/curso-online-dart-variaveis-listas)
  2. __Alura__: [Dart: entendendo a Orientação a Objetos](https://www.alura.com.br/curso-online-dart-entendendo-orientacao-objetos)
  3. __Alura__: [Dart: sintaxe, coleções e dinamismo](https://www.alura.com.br/curso-online-dart-sintaxe-colecoes-dinamismo)
  4. __Alura__: [Dart: lidando com Exceptions e Null Safety](https://www.alura.com.br/curso-online-dart-lidando-exceptions-null-safety)
