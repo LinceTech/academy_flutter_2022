@@ -21,7 +21,7 @@ Informações sobre o treinamento Lince Tech Academy
  - __YouTube__: Video [_"Como usar Git e Github na prática"_](https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat)
  
 ### Exercicíos
- 1. __Dart__: Praticando lógica de programação
+ 1. __Dart__: [Praticando lógica de programação](/EXERCICIOS_1.md)
  2. __Dart__: Praticando orientação a objetos
  3. __Dart__: Praticando uso de coleções
  4. __Dart__: Praticando uso de Exceptions e NullSafety
