@@ -3,8 +3,10 @@
 ### 1 — Escreva um programa que receba uma lista de raios de círculos e com base nos raios, calcule o area e o perimetro de cada círculo e exiba no console. Utilize a biblioteca dart:math.
 
 ```dart
+import 'dart:math' as math;
+
 void main() {
-  final raios = [5.0, 8.0, 12.0, 6.3, 15];
+  final raios = [5.0, 8.0, 12.0, 6.3, 15.0];
   calcularRaios(raios);
 }
 
