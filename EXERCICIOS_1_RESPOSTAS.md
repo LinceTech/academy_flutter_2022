@@ -225,7 +225,7 @@ void main() {
 }
 
 void imprimirNumeros(List<int> numeros) {
-  for (final decimal in numeros) {
+  for (final decimal in numeros..sort()) {
     print('decimal: $decimal, '
           'binario: ${decimal.toRadixString(2)}, '
           'octal: ${decimal.toRadixString(8)}, '
