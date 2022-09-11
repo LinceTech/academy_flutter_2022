@@ -44,7 +44,7 @@ ambiente online [DartPad](https://dartpad.dev/?).
 
 **Tempo estimado**: 40m   
 **Paragrafo**: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam venenatis nunc et posuere vehicula. Mauris
-lobortis quam id lacinia porttitor.
+lobortis quam id lacinia porttitor.  
 **Saida esperada no console:**   
 > Paragrafo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam venenatis nunc et posuere vehicula. Mauris
 > lobortis quam id lacinia porttitor.  
