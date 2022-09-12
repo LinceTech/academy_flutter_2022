@@ -22,8 +22,8 @@ Informações sobre o treinamento Lince Tech Academy
  
 ### Exercicíos
  1. __Dart__: [Praticando lógica de programação](/EXERCICIOS_1.md)
- 2. __Dart__: Praticando orientação a objetos
- 3. __Dart__: Praticando uso de coleções
+ 2. __Dart__: [Praticando orientação a objetos](/EXERCICIOS_2.md)
+ 3. __Dart__: [Praticando uso de coleções](/EXERCICIOS_3.md)
  4. __Dart__: Praticando uso de Exceptions e NullSafety
  5. __Flutter__: Utilizando Widgets e praticando refatoração
  6. __Flutter__: Navegação entre Widgets
