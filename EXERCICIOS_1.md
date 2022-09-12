@@ -10,7 +10,7 @@ ambiente online [DartPad](https://dartpad.dev/?).
 
 **Tempo estimado**: 10m  
 **Raios**: 5, 8, 12, 7.3, 18, 2, 25  
-**Saida esperada no console:**
+**Saida esperada no console:**  
 > Raio: 5, área: 78.54, perímetro: 31.42.  
 > Raio: 8, área: 201.06, perímetro: 50.27.  
 > Raio: 12, área: 452.39, perímetro: 75.40.  
@@ -23,7 +23,7 @@ ambiente online [DartPad](https://dartpad.dev/?).
 
 **Tempo estimado**: 10m   
 **Temperaturas (C)**: 0.0, 4.2, 15.0, 18.1, 21.7, 32.0, 40.0, 41.0   
-**Saida esperada no console:**
+**Saida esperada no console:**  
 > Celcius: 0.00, fahrenheit: 32.00, kelvin: 273.15  
 > Celcius: 4.20, fahrenheit: 39.56, kelvin: 277.35  
 > Celcius: 15.00, fahrenheit: 59.00, kelvin: 288.15  
@@ -44,8 +44,8 @@ ambiente online [DartPad](https://dartpad.dev/?).
 
 **Tempo estimado**: 40m   
 **Paragrafo**: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam venenatis nunc et posuere vehicula. Mauris
-lobortis quam id lacinia porttitor.
-**Saida esperada no console:**
+lobortis quam id lacinia porttitor.  
+**Saida esperada no console:**   
 > Paragrafo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam venenatis nunc et posuere vehicula. Mauris
 > lobortis quam id lacinia porttitor.  
 > Número de palavras: 20  
@@ -59,7 +59,7 @@ lobortis quam id lacinia porttitor.
 Ex: Considerando a data atual como 05/09/2022
 
 **Tempo estimado**: 20m   
-**Saida esperada no console:**
+**Saida esperada no console:**  
 > Data atual: 05/09/2022  
 > Data calculada: 29/09/2022
 
@@ -78,7 +78,7 @@ Rodrigues, Ferreira, Alves, Pereira, Lima, Gomes, Ribeiro, Carvalho, Lopes, Barb
 
 **Tempo estimado**: 10m  
 **Números**: 3, 17, 23, 49, 328, 1358, 21, 429, 12, 103, 20021  
-**Saida esperada no console:**
+**Saida esperada no console:**  
 > decimal: 3, binario: 11, octal: 3, hexadecimal: 3  
 > decimal: 12, binario: 1100, octal: 14, hexadecimal: c  
 > decimal: 17, binario: 10001, octal: 21, hexadecimal: 11  
@@ -99,7 +99,7 @@ Rodrigues, Ferreira, Alves, Pereira, Lima, Gomes, Ribeiro, Carvalho, Lopes, Barb
 
 **Tempo estimado**: 10m  
 **Números**: 10, 35, 999, 126, 95, 7, 348, 462, 43, 109
-**Saida esperada no console:**
+**Saida esperada no console:**  
 > for: 2234  
 > while: 2234  
 > recursão: 2234  
