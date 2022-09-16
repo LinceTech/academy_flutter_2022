@@ -19,9 +19,9 @@ Informações sobre o treinamento Lince Tech Academy
  - __YouTube__: Playlist [_"Flutterando"_](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7) (portugues)
  - __YouTube__: Video [_"Git // Dicionário do Programador"_](https://www.youtube.com/watch?v=za5KWZ5pRag&ab_channel=C%C3%B3digoFonteTV)
  - __YouTube__: Video [_"Como usar Git e Github na prática"_](https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat)
- - __Dart.dev__: [_"Dart Language Tour"_](https://dart.dev/guides/language/language-tour) (texto inglês, pode ser utilizado tradutor)
- - __YouTube__: [_"Programação Orientada a Objetos (POO) // Dicionário do Programador"_](https://www.youtube.com/watch?v=QY0Kdg83orY&ab_channel=C%C3%B3digoFonteTV)
- - __YouTube__: [_"Playlist: Programação em Dart - Sem Null-Safety"_](https://youtube.com/playlist?list=PLR5GUTqrcwXhVV-jNR38vfAZabkmGGKfO)
+ - __Dart.dev__: Texto [_"Dart Language Tour"_](https://dart.dev/guides/language/language-tour) (texto inglês, pode ser utilizado tradutor)
+ - __YouTube__: Video [_"Programação Orientada a Objetos (POO) // Dicionário do Programador"_](https://www.youtube.com/watch?v=QY0Kdg83orY&ab_channel=C%C3%B3digoFonteTV)
+ - __YouTube__: Playlist [_"Playlist: Programação em Dart - Sem Null-Safety"_](https://youtube.com/playlist?list=PLR5GUTqrcwXhVV-jNR38vfAZabkmGGKfO)
    - Os videos de 1 a 10 são conceitos básicos da linguagem, semelhante ao já abordado no curso Alura;
    - Os videos de 11 a 17 são voltados para a parte de orientação a objetos, podem servir como complementar para a lista de exercicios 2;
    - Do video 18 para frente, são conteudos voltados a coleções (conteudo da lista 3) e um video introdutorio sobre `null` e Null-Safety;
